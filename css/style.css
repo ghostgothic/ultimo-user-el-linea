@@ -1,0 +1,38 @@
+div.show-online-user-count-total {
+	font-size: 20px;
+	text-align: center;
+	border-bottom: 3px #2d3061 solid;
+	margin: 1px;
+	height: 100px;
+	background-image: url(https://2img.net/h/i422.photobucket.com/albums/pp309/johny7777777/UsuariosOnline.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 30px 50px 10px 10px;
+}
+
+.show-online-user-count-data,.show-stats-list-data {
+	font-weight: bold;
+	color: #2196f3;
+}
+.show-online-user-count-info {
+	text-align: center;
+	font-size: 18px;
+}
+div.show-online-user-list {
+	margin: 10px;	
+	background-color: #25063a;
+	padding: 10px;
+}
+.show-online-user-list_title {
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	margin: 3px;
+	background: #81bedf;
+}
+div.show-stats-list {
+	margin: 15px;	
+	background-color: #1a4d6f;
+	padding: 20px 10px 30px 20px;
+	font-size:15px;
+}
